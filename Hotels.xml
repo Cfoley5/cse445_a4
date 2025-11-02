@@ -1,5 +1,4 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
-
 <Hotels>
 	<Hotel Rating="3.5">
 		<Name>Aloft Tempe</Name>
@@ -124,3 +123,4 @@
 		</Address>
 	</Hotel>
 </Hotels>
+
