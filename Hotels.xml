@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<Hotels>
+	<Hotel Rating="3.5">
+		<Name>Aloft Tempe</Name>
+		<Phone>480-621-3300</Phone>
+		<Address NearestAirport="Sky Harbor">
+			<Number>951</Number>
+			<Street>E Playa del Norte Dr</Street>
+			<City>Tempe</City>
+			<State>Arizona</State>
+			<Zip>85288</Zip>
+		</Address>
+	</Hotel>
+	<Hotel Rating="4.2">
+		<Name>Westin</Name>
+		<Phone>480-968-8885</Phone>
+		<Phone>800-937-8461</Phone>
+		<Address NearestAirport="Sky Harbor">
+			<Number>11</Number>
+			<Street>E 7th St</Street>
+			<City>Tempe</City>
+			<State>Arizona</State>
+			<Zip>85281</Zip>
+		</Address>
+	</Hotel>
+	<Hotel Rating="3.5">
+		<Name>Spark by Hilton Phoenix East Mesa</Name>
+		<Phone>480-457-8181</Phone>
+		<Address NearestAirport="Mesa Gateway">
+			<Number>4470</Number>
+			<Street>S Power Rd</Street>
+			<City>Mesa</City>
+			<State>Arizona</State>
+			<Zip>85212</Zip>
+		</Address>
+	</Hotel>
+	<Hotel Rating="4.3">
+		<Name>The Westin Kierland Resort and Spa</Name>
+		<Phone>480-624-1000</Phone>
+		<Address NearestAirport="Scottsdale Airport">
+			<Number>6902</Number>
+			<Street>E Greenway Pkwy</Street>
+			<City>Scottsdale</City>
+			<State>Arizona</State>
+			<Zip>85254</Zip>
+		</Address>
+	</Hotel>
+	<Hotel Rating="4.3">
+		<Name>Fairmont Scottsdale Princess</Name>
+		<Phone>480-585-4848</Phone>
+		<Address NearestAirport="Scottsdale Airport">
+			<Number>7575</Number>
+			<Street>E Princess Dr</Street>
+			<City>Scottsdale</City>
+			<State>Arizona</State>
+			<Zip>85255</Zip>
+		</Address>
+	</Hotel>
+	<Hotel Rating="4.6">
+		<Name>The Kennedy Hotel</Name>
+		<Phone>520-355-8900</Phone>
+		<Address NearestAirport="Tucson International Airport">
+			<Number>810</Number>
+			<Street>E Benson Hwy</Street>
+			<City>Tucson</City>
+			<State>Arizona</State>
+			<Zip>85713</Zip>
+		</Address>
+	</Hotel>
+	<Hotel>
+		<Name>Lodge On The Desert</Name>
+		<Phone>833-257-8800</Phone>
+		<Address NearestAirport="Tucson International Airport">
+			<Number>306</Number>
+			<Street>N Alvernon Way</Street>
+			<City>Tucson</City>
+			<State>Arizona</State>
+			<Zip>85711</Zip>
+		</Address>
+	</Hotel>
+	<Hotel Rating="4.3">
+		<Name>Holiday Inn Express and Suites Tucson by IHG</Name>
+		<Phone>520-624-3200</Phone>
+		<Address NearestAirport="Tucson International Airport">
+			<Number>1564</Number>
+			<Street>W Grant Rd</Street>
+			<City>Tucson</City>
+			<State>Arizona</State>
+			<Zip>85745</Zip>
+		</Address>
+	</Hotel>
+	<Hotel>
+		<Name>Castle Rock Hotel</Name>
+		<Phone>928-853-8288</Phone>
+		<Address NearestAirport="Flagstaff Pulliam Airport">
+			<Number>1313</Number>
+			<Street>S Milton Rd</Street>
+			<City>Flagstaff</City>
+			<State>Arizona</State>
+			<Zip>86001</Zip>
+		</Address>
+	</Hotel>
+	<Hotel Rating="4.5">
+		<Name>Residence Inn Flagstaff</Name>
+		<Phone>928-440-5499</Phone>
+		<Address NearestAirport="Flagstaff Pulliam Airport">
+			<Number>100</Number>
+			<Street>N Humphreys St</Street>
+			<City>Flagstaff</City>
+			<State>Arizona</State>
+			<Zip>86001</Zip>
+		</Address>
+	</Hotel>
+	<Hotel Rating="4.6">
+		<Name>Little America Hotel</Name>
+		<Phone>928-779-7900</Phone>
+		<Address NearestAirport="Flagstaff Pulliam Airport">
+			<Number>2515</Number>
+			<Street>E Butler Ave</Street>
+			<City>Flagstaff</City>
+			<State>Arizona</State>
+			<Zip>86004</Zip>
+		</Address>
+	</Hotel>
+</Hotels>
