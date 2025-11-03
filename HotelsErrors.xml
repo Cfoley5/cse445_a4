@@ -53,6 +53,7 @@
 			<City>Scottsdale</City>
 			<State>Arizona</State>
 			<Zip>85255</Zip>
+		</Address>
 	</Hotel>
 	<Hotel Rating="4.6">
 		<Name>The Kennedy Hotel</Name>
@@ -122,3 +123,4 @@
 		</Address>
 	</Hotel>
 </Hotel>
+
